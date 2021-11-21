@@ -1,0 +1,54 @@
+﻿  Main.cpp
+D:\Documentos\Github\GraphicComputing_Project\Code\Project\Project\Main.cpp(475,24): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Documentos\Github\GraphicComputing_Project\Code\Project\Project\Main.cpp(506,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documentos\Github\GraphicComputing_Project\Code\Project\Project\Main.cpp(507,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documentos\Github\GraphicComputing_Project\Code\Project\Project\Main.cpp(508,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documentos\Github\GraphicComputing_Project\Code\Project\Project\Main.cpp(510,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documentos\Github\GraphicComputing_Project\Code\Project\Project\Main.cpp(511,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documentos\Github\GraphicComputing_Project\Code\Project\Project\Main.cpp(512,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documentos\Github\GraphicComputing_Project\Code\Project\Project\Main.cpp(601,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documentos\Github\GraphicComputing_Project\Code\Project\Project\Main.cpp(602,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documentos\Github\GraphicComputing_Project\Code\Project\Project\Main.cpp(603,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documentos\Github\GraphicComputing_Project\Code\Project\Project\Main.cpp(1118,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Documentos\Github\GraphicComputing_Project\Code\Project\Project\Main.cpp(1119,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Documentos\Github\GraphicComputing_Project\Code\Project\Project\Main.cpp(1123,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Documentos\Github\GraphicComputing_Project\Code\Project\Project\Main.cpp(1124,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Documentos\Github\GraphicComputing_Project\Code\Project\Project\Main.cpp(1126,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Documentos\Github\GraphicComputing_Project\Code\Project\Project\Main.cpp(1127,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Project.vcxproj -> D:\Documentos\Github\GraphicComputing_Project\Code\Project\Debug\Project.exe
